@@ -1,5 +1,5 @@
 {
-    "name": "edgedesign/phpqa",
+    "name": "poissegrolle/phpqa",
     "type": "library",
     "description": "Analyze PHP code with one command.",
     "keywords": ["QA", "code analysis", "static analysis"],
